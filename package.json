@@ -1,0 +1,13 @@
+{
+  "name": "semantic-ui-react-icons",
+  "version": "1.0.1",
+  "description": "Monkey patch the new Font Awesome icons into the semantic-ui-react package",
+  "main": "index.js",
+  "repository": "https://github.com/zxlin/semantic-ui-react-icons",
+  "author": "https://github.com/zxlin",
+  "license": "MIT",
+  "devDependencies": {
+    "fomantic-ui": "2.8.7",
+    "semantic-ui-react": "2.0.3"
+  }
+}
